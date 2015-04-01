@@ -23,14 +23,14 @@ PlayN is free and open source, and we hope you will make [kick ass games](http:/
 Please try out some of the DemoLinks. See GettingStarted for details on how to build and run the demos yourself and on how to create a project that uses PlayN.
 
 ## Release Notes ##
-Read the [javadocs](http://docs.playn.googlecode.com/git/javadoc/index.html) for the latest release and the [release notes](ReleaseNotes.md).
+Read the [javadocs](http://docs.playn.googlecode.com/git/javadoc/index.html) for the latest release and the [release notes](../../wiki/ReleaseNotes).
 
-See the [platform status](PlatformStatus.md) page for details on the supported platforms, and the [roadmap](Roadmap.md) for future plans.
+See the [platform status](../../wiki/PlatformStatus) page for details on the supported platforms, and the [roadmap](../../wiki/Roadmap) for future plans.
 
 ## Getting Help ##
 If you run into issues getting the samples working or getting your development environment set up, please post to Stack Overflow with the playn tag: http://stackoverflow.com/questions/tagged/playn That's also a good place to post "How do I do X in PlayN" questions.
 
-Please read our [getting help](GettingHelp.md) wiki page if you need help and want to get an answer as quickly and efficiently as possible.
+Please read our [getting help](../../wiki/GettingHelp) wiki page if you need help and want to get an answer as quickly and efficiently as possible.
 
 For other general discussion, please participate in the discussion group at http://groups.google.com/group/playn
 
